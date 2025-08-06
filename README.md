@@ -42,6 +42,6 @@ This project focuses on building classification models to detect breast cancer u
 
 ## 📁 Project Structure
 
-──# breast-cancer-classification-automated-ml : Main notebook with all experiments
-├─# breast-cancer.csv : The Dataset
-├─# README.md # Project overview and documentation
+- breast-cancer-classification-automated-ml : Main notebook with all experiments
+- breast-cancer.csv : The Dataset
+- README.md : Project overview and documentation
